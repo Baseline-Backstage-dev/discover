@@ -1,0 +1,8 @@
+site_name: "Discover"
+site_description: "A new venture"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
